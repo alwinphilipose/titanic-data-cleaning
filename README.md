@@ -50,4 +50,4 @@ Final cleaned dataset saved as `titanic_cleaned.csv`.
 ## 🧑‍💻 Author
 
 Alwin Philipose  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/)  
+[LinkedIn](https:www.linkedin.com/in/alwin-philipose)  
